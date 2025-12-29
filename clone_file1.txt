@@ -1,3 +1,7 @@
 akash
 
+<<<<<<< HEAD
 branch1_update
+=======
+branch2 update
+>>>>>>> main
